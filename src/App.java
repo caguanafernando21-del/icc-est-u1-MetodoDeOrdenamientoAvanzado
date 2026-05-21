@@ -1,6 +1,4 @@
 
-
-
 public class App {
     public static void main(String[] args) {
 
@@ -10,8 +8,6 @@ public class App {
         for (int num : numeros) {
             System.out.print(num + " ");
         }
-
-
 
 
         // Llamada a Merge Sort
